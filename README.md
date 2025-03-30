@@ -46,7 +46,8 @@
 - [ ] Ear plugs regular and sleeping
 - [ ] Wet wipes
 - [ ] Extra toilet paper
-- [ ] Ibuprofen
+- [ ] Ibuprofen/OTC medications like pepto bismol
+- [ ] Allergy medications (benadryl/claritin)
 - [ ] Mini first aid kit
 - [ ] Nose spray?
 - [ ] Supplements
@@ -56,7 +57,7 @@
 - [ ] Toothbrush
 - [ ] Toothpaste
 - [ ] Lip sunscreen
-- [ ] Perfume - travel size
+- [ ] Perfume - travel size/not glass
 - [ ] Razor
 - [ ] Flip flops or crocs
 - [ ] Hat
@@ -65,7 +66,7 @@
 
 - [ ] 8 red bulls - regular, tropical, strawberry
 
-- [ ] 4 energy drink
+- [ ] 4 energy drinks
 
 - [ ] non alcoholic beer x 6
 
@@ -73,13 +74,11 @@
 
 - [ ] banana drink maybe
 
-- [ ] mocktails ginger mule x 3
+- [ ] mocktails ginger mule x 4
 
 - [ ] Powerade x 4
 
 - [ ] Monsters
-
-- [ ] Alcoholic monsters
 
 - [ ] Water/Water bottle
 
